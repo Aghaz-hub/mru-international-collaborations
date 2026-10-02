@@ -1,6 +1,6 @@
 # MRU International Collaborations Tracker
 
-**Manav Rachna International Institute of Research and Studies, Faridabad**  
+**Manav Rachna University, Faridabad**  
 Office of International Affairs & Collaborations
 
 A web-based admin portal to track MoUs, Partner Universities, Academic Arrangements, Global Classrooms, International Mobility and Activities.
@@ -141,4 +141,4 @@ const ADMIN_PASS = "mru@oiac2026";
 
 For any changes or new modules, contact the development team / Office of International Affairs.
 
-**© 2026 Manav Rachna International Institute of Research and Studies**
+**© 2026 Manav Rachna University**
